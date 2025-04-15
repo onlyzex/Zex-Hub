@@ -1,4 +1,4 @@
-# **🔥 ZeX Hub - Roblox Script Hub**  
+# **🔥 ZeX Hub - Free Roblox Script**  
 *Your Ultimate Source for Premium Roblox Scripts*  
 
 **👨‍💻 Author:** ZeX  
