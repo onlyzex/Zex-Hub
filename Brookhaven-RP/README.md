@@ -1,5 +1,6 @@
-# **Egg Hunt Unlocker - Brookhaven RP**  
-*Automatically unlocks all eggs in Brookhaven RP's Egg Hunt Event*  
+# **Auto Egg Hunt Unlocker - Brookhaven RP**  
+*Automatically unlocks and get all eggs in Brookhaven RP's Egg Hunt Event*  
+*Roblox Game*  
 
 **Author:** ZeX  
 **Discord:** [discord.gg/DeadySins](https://discord.gg/GWw437V2BY)  
@@ -14,8 +15,6 @@ This script automatically collects all eggs in **Brookhaven RP's Egg Hunt Event*
 - **Hard**  
 - **Extreme**  
 
-It simulates egg collection by sending remote requests to the game server, saving you time from manually collecting them.  
-
 ---
 
 ## **🚀 Features**  
@@ -28,9 +27,10 @@ It simulates egg collection by sending remote requests to the game server, savin
 ---
 
 ## **📋 How to Use**  
-1. **Inject your preferred executor** (e.g., Synapse, Krnl, Fluxus).  
-2. **Copy & paste the script** into the executor.  
-3. **Run the script** in Brookhaven RP.  
+1. **Inject your preferred executor** (e.g., Xeno, Delta, Synapse, Krnl, Fluxus, etc).  
+2. **Copy & paste the script** into the executor:
+loadstring(game:HttpGet('https://raw.githubusercontent.com/onlyzex/Zex-Hub/refs/heads/main/Brookhaven-RP/brookhavenrp.lua'))()
+3. **Run the script** in Brookhaven RP on Roblox.  
 4. **Wait** for the notifications confirming completion.  
 
 ### **⚠️ Note:**  
@@ -51,8 +51,8 @@ This script is for **educational purposes only**. Use at your own risk.
 ---
 
 ## **📢 Support & Updates**  
-🔗 **GitHub:** [github.com/ZeX-Scripts](https://github.com/onlyzex)  
-📌 **Discord:** [discord.gg/zex](https://discord.gg/GWw437V2BY)  
+🔗 **GitHub:** [github.com/ZeX-Hub](https://github.com/onlyzex)  
+📌 **Discord:** [discord.gg/DeadlySins](https://discord.gg/GWw437V2BY)  
 
 **⭐ If you find this useful, please star the repo!**  
 
