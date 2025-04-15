@@ -29,9 +29,11 @@ This script automatically collects all eggs in **Brookhaven RP's Egg Hunt Event*
 ## **📋 How to Use**  
 1. **Inject your preferred executor** (e.g., Xeno, Delta, Synapse, Krnl, Fluxus, etc).  
 2. **Copy & paste the script** into the executor:
+```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/onlyzex/Zex-Hub/refs/heads/main/Brookhaven-RP/brookhavenrp.lua'))()
-3. **Run the script** in Brookhaven RP on Roblox.  
-4. **Wait** for the notifications confirming completion.  
+```
+4. **Run the script** in Brookhaven RP on Roblox.  
+5. **Wait** for the notifications confirming completion.  
 
 ### **⚠️ Note:**  
 - The script may take a few minutes to complete.  
